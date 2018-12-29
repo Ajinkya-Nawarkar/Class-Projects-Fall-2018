@@ -1,5 +1,0 @@
-{
-  let i := 5;
-  let j := ;
-  let sum := (i + j)/6 + 4;
-}
