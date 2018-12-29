@@ -1,0 +1,30 @@
+enter P 0
+-->found {
+enter S 0
+enter A 0
+-->found let
+-->found ID: i
+-->found :=
+enter E 0
+enter B 0
+enter R 0
+enter T 0
+enter F 0
+enter U 0
+-->found FLOATLIT: 5
+exit U 0
+exit F 0
+exit T 0
+exit R 0
+exit B 0
+exit E 0
+-->found ;
+exit A 0
+exit S 0
+ enter S 1
+ enter A 1
+-->found let
+-->found ID: j
+-->found :=
+
+***ERROR (line 3): missing expression in assignment statement A

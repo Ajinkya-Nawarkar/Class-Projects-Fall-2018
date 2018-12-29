@@ -1,0 +1,9 @@
+{
+let y := 3;
+let z := 5;
+let k := 7;
+let x := not y * not z + (-y - z) or not k;
+read "the many values given" array1;
+print "similar to above with a small difference";
+if (x == y) let x := 0 ;
+}
